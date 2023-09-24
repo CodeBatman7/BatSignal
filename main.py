@@ -1,36 +1,3 @@
-# import turtle
-
-# batman = turtle.Turtle()
-
-# batman.shape('turtle')
-
-# batman.pensize(3)
-# batman.color('yellow')
-
-# batman.circle(100)
-
-# batman.penup()
-# batman.goto(-50, 120)
-# batman.pendown()
-# batman.setheading(-30)
-# batman.circle(80,120)
-
-# batman.penup()
-# batman.goto(50,120)
-# batman.pendown()
-# batman.setheading(30)
-# batman.circle(80,120)
-
-# batman.penup()
-# batman.goto(0, -80)
-# batman.pendown()
-# batman.setheading(-90)
-# batman.circle(80, 180)
-
-# batman.hideturtle()
-
-
-
 
 import turtle
 
